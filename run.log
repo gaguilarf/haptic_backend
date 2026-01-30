@@ -1,0 +1,14 @@
+/usr/lib/python3/dist-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+======================================================================
+🚀 FER DEPLOYMENT CON BLE
+======================================================================
+Modelo: cbam4cnn_emotion_model.engine
+Cámara: http://10.7.46.63:5000/video
+BLE: ❌ Desactivado
+Pantalla: Gráfica
+======================================================================
+🔄 Inicializando TensorRT...
+✓ Modelo cargado | Input: (1, 1, 48, 48) | Output: (1, 7)
+📷 Conectando a cámara...
+✓ Cámara conectada
