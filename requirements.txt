@@ -1,2 +1,8 @@
-cupy-cuda12x
-
+numpy==1.26.3
+opencv-python==4.9.0.80
+cupy-cuda12x==12.3.0
+tensorrt==10.3.0
+dbus-python==1.2.18
+PyGObject==3.42.1
+bleak==2.0.0
+onnxruntime
